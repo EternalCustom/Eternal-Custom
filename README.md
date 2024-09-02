@@ -1,2 +1,2 @@
 # Eternal-Custom
-💻 Eternal Custom | Especialistas en la creación y venta de scripts personalizados y servidores de roleplay para FiveM. ¡Impulsa tu experiencia de juego al siguiente nivel!
+💻 Eternal Custom | Dedicados a la creación y venta de scripts personalizados y servidores de roleplay para FiveM. En nuestro GitHub, encontrarás una colección de proyectos cuidadosamente desarrollados y optimizados para ofrecer la mejor experiencia en servidores RP. Mantenemos actualizaciones constantes, mejoras de rendimiento, y nuevas características basadas en las necesidades de la comunidad. Cada repositorio incluye documentación detallada para facilitar la integración y personalización en tu servidor. ¡Confía en Eternal Custom para llevar tu servidor al siguiente nivel!
