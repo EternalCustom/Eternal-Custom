@@ -1,2 +1,30 @@
-# Eternal-Custom
-💻 Eternal Custom | Dedicados a la creación y venta de scripts personalizados y servidores de roleplay para FiveM. En nuestro GitHub, encontrarás una colección de proyectos cuidadosamente desarrollados y optimizados para ofrecer la mejor experiencia en servidores RP. Mantenemos actualizaciones constantes, mejoras de rendimiento, y nuevas características basadas en las necesidades de la comunidad. Cada repositorio incluye documentación detallada para facilitar la integración y personalización en tu servidor. ¡Confía en Eternal Custom para llevar tu servidor al siguiente nivel!
+## 👋 ¡Hola a todos!
+
+### Eternal Custom | Creadores de Scripts
+
+[![Rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)]()
+
+Proporcionando scripts de alta calidad para QBCore y ESX desde 2024.
+
+---
+
+## 📜 Acerca de Nosotros
+
+🔧 **Eternal Custom** se especializa en el desarrollo de scripts personalizados para servidores de FiveM utilizando QBCore y ESX.
+
+📂 Nuestros servicios incluyen:
+- 🚗 Scripts de gestión de vehículos.
+- 🏢 Menús personalizados para trabajos y negocios.
+- 🚓 Sistemas avanzados de roles policiales y criminales.
+- 🧰 Y mucho más...
+
+🌐 **¿Interesado en nuestros servicios? Contáctanos:**
+- 📧 [Email](mailto:eternalcustoom@gmail.com)
+- 🖥️ [GitHub](https://github.com/EternalCustom/Eternal-Custom)
+- 💬 [Discord](https://discord.gg/3GtnX5UD)
+
+---
+
+## 📊 Estadísticas de GitHub de Eternal Custom
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalCustom&show_icons=true&hide_border=true&theme=dark)
