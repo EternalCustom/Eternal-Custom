@@ -29,19 +29,15 @@ Proporcionando scripts de alta calidad para QBCore y ESX desde 2024.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EternalCustom&show_icons=true&hide_border=true&theme=dark)
 
-### 🚀 Experiencia en lenguajes de programación:
-
-- **Lua:** ████████████████ 75%
-- **CSS:** ████████████████ 75%
-- **HTML:** ████████████████ 75%
-- **JavaScript:** ████████░░░░░░ 20%
-
 ---
 
-## 🛠️ Lenguajes, Frameworks y Herramientas
+### 🚀 Experiencia en Lenguajes de Programación
 
-![Tools](ruta-a-tu-imagen-tools.png)
+| Lenguaje        | Experiencia |
+|-----------------|-------------|
+| **Lua**         | ████████████████ 75% |
+| **CSS**         | ████████████████ 75% |
+| **HTML**        | ████████████████ 75% |
+| **JavaScript**  | ████████░░░░░░ 20%  |
 
-### 📈 Lenguajes más usados
-
-![Most Used Languages](ruta-a-tu-imagen-most-used-languages.png)
+---
