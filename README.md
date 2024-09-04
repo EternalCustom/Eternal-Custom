@@ -35,3 +35,13 @@ Proporcionando scripts de alta calidad para QBCore y ESX desde 2024.
 - **CSS:** ████████████████ 75%
 - **HTML:** ████████████████ 75%
 - **JavaScript:** ████████░░░░░░ 20%
+
+---
+
+## 🛠️ Lenguajes, Frameworks y Herramientas
+
+![Tools](ruta-a-tu-imagen-tools.png)
+
+### 📈 Lenguajes más usados
+
+![Most Used Languages](ruta-a-tu-imagen-most-used-languages.png)
